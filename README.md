@@ -27,11 +27,11 @@ Estudante de tecnologia que aprende construindo. Tenho repositórios em PHP, Pyt
 
 </div>
 
-## Estatísticas
+## Perfil no GitHub
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=Ayoba2604&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoba2604&layout=compact&theme=tokyonight)
+![Seguidores](https://img.shields.io/github/followers/Ayoba2604?style=for-the-badge&logo=github&label=Seguidores)
+![Último commit](https://img.shields.io/github/last-commit/Ayoba2604/LEGISLA.IA2?style=for-the-badge&label=%C3%9Altimo%20commit%20no%20LEGISLA.IA2)
 
 </div>
