@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="Alan N.C. Ferreira, desenvolvedor em formação">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2f5bff"/><stop offset="1" stop-color="#ffb703"/></linearGradient>
+<clipPath id="t"><rect x="60" y="150" height="50" width="0"><animate attributeName="width" values="0;780;780;0" keyTimes="0;0.5;0.9;1" dur="7s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect width="900" height="260" rx="16" fill="#0d1526"/>
+<path d="M0 30H900M0 90H900M0 150H900M0 210H900M60 0V260M240 0V260M420 0V260M600 0V260M780 0V260" stroke="#1a2640" stroke-width="1"/>
+<rect x="60" y="48" width="70" height="6" rx="3" fill="url(#g)"><animate attributeName="width" values="70;260;70" dur="4s" repeatCount="indefinite"/></rect>
+<text x="60" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="800" fill="#e8eefc">Alan N.C. Ferreira</text>
+<g clip-path="url(#t)"><text x="60" y="182" font-family="Courier New, Consolas, monospace" font-size="24" fill="#ffb703">Desenvolvedor em formação | PHP · Python · JavaScript</text></g>
+<rect x="60" y="162" width="3" height="28" fill="#ffb703"><animate attributeName="x" values="60;840;840;60" keyTimes="0;0.5;0.9;1" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+<text x="60" y="232" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9aaac4">Aprendendo um commit por vez</text>
+</svg>
